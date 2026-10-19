@@ -1,6 +1,6 @@
 <div align="center">
 
-# 소프트웨어 래스터라이저 학습 기록
+# 소프트웨어 래스터라이저 개발 기록
 
 <p align="center"><img src="Resources/Overview.gif" alt="2D 삼각형의 색 보간에서 3D 와이어프레임, 텍스처와 클리핑, 트랜스폼 계층으로 이어지는 구현 화면" width="800"></p>
 
