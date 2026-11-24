@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Win32-API-0078D4" alt="Win32 API">
 </p>
 
-![2D 삼각형의 색 보간에서 3D 와이어프레임, 텍스처와 클리핑으로 이어지는 구현 화면](Resources/Overview.gif)
+<p align="center"><img src="Resources/Overview.gif" alt="2D 삼각형의 색 보간에서 3D 와이어프레임, 텍스처와 클리핑으로 이어지는 구현 화면"></p>
 
 ## 목차
 
